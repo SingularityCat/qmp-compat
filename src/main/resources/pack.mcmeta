@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "QMP compat resources",
+        "pack_format": 8
+    }
+}
